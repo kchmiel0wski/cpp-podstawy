@@ -2,7 +2,6 @@
 
 Zbiór programów w C++ napisanych w trakcie pierwszego roku studiów (Informatyczne Systemy Automatyki, Politechnika Wrocławska). Programy są konsolowe i pokazują kolejne zagadnienia: od instrukcji warunkowych, przez tablice i napisy, po wskaźniki, listę jednokierunkową i pracę z plikami.
 
-Większy projekt (system listy obecności w C++ z klasami, dziedziczeniem i interfejsami) jest w osobnym repozytorium.
 
 ## Zawartość
 
